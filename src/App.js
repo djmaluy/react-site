@@ -8,10 +8,8 @@ function App() {
   return (
     <>
       <Header />
-
       <Container>
         <h1>Just do it!</h1>
-        <Button variant="warning">Button</Button>
       </Container>
     </>
   );
